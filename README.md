@@ -1,0 +1,2 @@
+# MFC_DIALOG_EXAMPLE
+MFC  대화상자 공부한거
